@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there!
 
 <!--
 **Shuwei-Song/Shuwei-Song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👀 I'm Shuwei Song, a Ph.D. candidate at [UESTC](https://en.uestc.edu.cn).
+- 🔭 I'm currently doing some work related to smart contracts and software engineering.
+- 🌱 I'm quite interested in programming, though I'm still a green hand at present.
