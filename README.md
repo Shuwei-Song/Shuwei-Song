@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 👀 I'm Shuwei Song, a Ph.D. candidate at [UESTC](https://en.uestc.edu.cn).
 - 🔭 I'm currently doing some work related to smart contracts and software engineering.
 - 🌱 I'm quite interested in programming, though I'm still a green hand at present.
+- 🏅 I received a [GitPOAP](https://www.gitpoap.io/p/0x07f674e048351cb9dd18b58693414a5179849068) for my contributions to [ethereum-org-website](https://github.com/ethereum/ethereum-org-website).
+
